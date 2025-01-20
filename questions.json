@@ -181,7 +181,7 @@
     "topic": "Routing"
   },
   {
-    "text": "per l'instaurazione di un LSB è indispensabile che (2160)",
+    "text": "per l'instaurazione di un LSP è indispensabile che (2160)",
     "options": [
       "tutti i link sul percorso utilizzino lo stesso protocollo di livello due",
       "i router mpls sul percorso utilizzino lo stesso protocollo per la distribuzione delle etichette",
